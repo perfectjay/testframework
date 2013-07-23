@@ -14,6 +14,9 @@
 {
     [_window release];
     [super dealloc];
+    
+    
+    //OKOKOK
 }
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
